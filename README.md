@@ -1,4 +1,7 @@
 # Movies Anywhere App
+# screenshots
+![Blog](https://res.cloudinary.com/duuidz8kh/image/upload/v1658260984/Movies%20Anywhere/moviesHome_i9s1gk.png)
+![Blog](https://res.cloudinary.com/duuidz8kh/image/upload/v1658260987/Movies%20Anywhere/movies_yaxwvm.png)
 
 
 ## Available Scripts
